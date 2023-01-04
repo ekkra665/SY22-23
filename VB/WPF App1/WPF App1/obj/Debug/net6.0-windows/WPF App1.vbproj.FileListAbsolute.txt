@@ -1,0 +1,21 @@
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.vbproj.AssemblyReference.cache
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1_MarkupCompile.cache
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1_MarkupCompile.lref
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\bin\Debug\net6.0-windows\WPF App1.exe
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\bin\Debug\net6.0-windows\WPF App1.deps.json
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\bin\Debug\net6.0-windows\WPF App1.runtimeconfig.json
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\bin\Debug\net6.0-windows\WPF App1.dll
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\bin\Debug\net6.0-windows\WPF App1.pdb
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.g.resources
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.AssemblyInfoInputs.cache
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.AssemblyInfo.vb
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.vbproj.CoreCompileInputs.cache
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.dll
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\refint\WPF App1.dll
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.pdb
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\WPF App1.genruntimeconfig.cache
+C:\Users\ekkra665\Desktop\SY22-23 - Copy\VB\WPF App1\WPF App1\obj\Debug\net6.0-windows\ref\WPF App1.dll
