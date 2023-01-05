@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekkra665\\Desktop\\SY22-23 - Copy\\VB\\WPF App1\\WPF App1\\WPF App1.vbproj",
+      "projectUniqueName": "C:\\Users\\ekkra665\\Desktop\\SY22-23\\VB\\WPF App1\\WPF App1\\WPF App1.vbproj",
       "projectName": "WPF App1",
-      "projectPath": "C:\\Users\\ekkra665\\Desktop\\SY22-23 - Copy\\VB\\WPF App1\\WPF App1\\WPF App1.vbproj",
+      "projectPath": "C:\\Users\\ekkra665\\Desktop\\SY22-23\\VB\\WPF App1\\WPF App1\\WPF App1.vbproj",
       "packagesPath": "C:\\Users\\ekkra665\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ekkra665\\Desktop\\SY22-23 - Copy\\VB\\WPF App1\\WPF App1\\obj\\",
+      "outputPath": "C:\\Users\\ekkra665\\Desktop\\SY22-23\\VB\\WPF App1\\WPF App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
